@@ -1,5 +1,4 @@
 # wildlife
-# wildlife
 The wildlife71 Dataset.
 
 Our wildlife71 is released now！<br>
