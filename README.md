@@ -17,6 +17,9 @@ You can download the training set of our wildlife71 dataset at:
 
 Baiduyun:
 <a href='https://pan.baidu.com/s/1LrAiFSk-Bp6PGMXBZe_-yQ'>Baiduyun</a>
-Extraction code: wild				  
+Extraction code: wild		
+
+Google Drive:
+<a href='[https://drive.google.com/drive/folders/1S8BCBDHxXJeqyv8v6LFWS5EZHvVdrHeN?usp=sharing](https://drive.google.com/drive/folders/1dff2881ARy8AYV5gkEAeCf-SymBC3Ckv?usp=drive_link)'>Google</a>
 
 Due to issues of license and copyright, our test set is not yet organized. We will release it soon.
